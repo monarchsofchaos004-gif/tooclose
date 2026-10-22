@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TooClose</string>
+    <string name="notif_channel">Distance guard</string>
+    <string name="notif_watching">Watching screen distance (camera stays on this phone)</string>
+    <string name="notif_boot_channel">Reminders</string>
+    <string name="notif_boot">Tap to turn the distance guard back on</string>
+    <string name="cover_title">Too close! 🙈</string>
+    <string name="cover_hint">Move back a little and the screen comes back.</string>
+    <string name="cover_distance">%1$d cm now · keep at least %2$d cm</string>
+    <string name="cover_dark">Please don\'t cover the camera.</string>
+    <string name="voice_line">Too close. Please move back from the screen.</string>
+    <string name="pin_hint">Parent PIN</string>
+    <string name="pin_unlock">Unlock settings</string>
+    <string name="pin_wrong">Wrong PIN</string>
+    <string name="pin_title">Parent PIN (4–8 digits, empty = none). Needed to stop the guard or change settings.</string>
+    <string name="pin_new_hint">New PIN</string>
+    <string name="pin_save">Save PIN</string>
+    <string name="pin_len">Use 4–8 digits, or leave empty</string>
+    <string name="perm_camera">① Allow camera (and notifications)</string>
+    <string name="perm_overlay">② Allow display over other apps</string>
+    <string name="start">▶ Start guard</string>
+    <string name="stop">■ Stop guard</string>
+    <string name="th_title">Warn when closer than %1$d cm</string>
+    <string name="age_title">Who uses this device?</string>
+    <string name="age_0">Child 3–5 years</string>
+    <string name="age_1">Child 6–12 years</string>
+    <string name="age_2">Teen / adult</string>
+    <string name="cal_help">Calibrate (optional, makes the number accurate): start the guard, hold the face exactly 30 cm from the screen (use a ruler), then tap the button and keep still for 3 seconds.</string>
+    <string name="cal_button">Calibrate at 30 cm</string>
+    <string name="cal_reset">Reset calibration</string>
+    <string name="cal_started">Calibrating… keep still for 3 seconds</string>
+    <string name="cal_need_running">Start the guard first</string>
+    <string name="opt_voice">Say a spoken reminder</string>
+    <string name="opt_pause">Pause playing video/music while covered</string>
+    <string name="privacy_note">Privacy: no internet permission. Camera frames are analysed in memory with Android\'s built-in face detector and thrown away immediately; nothing is saved or sent. The camera is closed while the screen is off. Android shows a green camera dot while the guard is watching.</string>
+    <string name="st_cam_ok">✓ Camera allowed</string>
+    <string name="st_cam_no">✗ Camera not allowed (tap ①)</string>
+    <string name="st_ov_ok">✓ Display over other apps allowed</string>
+    <string name="st_ov_no">✗ Display over other apps not allowed (tap ②)</string>
+    <string name="st_calib">Calibration factor: %1$s</string>
+    <string name="live_off">Guard is off</string>
+    <string name="live_nocam">Front camera unavailable</string>
+    <string name="live_noface">Watching · no face</string>
+    <string name="live_cm">Face ≈ %1$d cm</string>
+    <string name="live_covered">Covered: too close</string>
+</resources>

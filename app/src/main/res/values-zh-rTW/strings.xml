@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TooClose</string>
+    <string name="notif_channel">距離守門</string>
+    <string name="notif_watching">正在看螢幕距離（鏡頭畫面只留在這支手機）</string>
+    <string name="notif_boot_channel">提醒</string>
+    <string name="notif_boot">點一下重新開啟距離守門</string>
+    <string name="cover_title">太近了！🙈</string>
+    <string name="cover_hint">往後退一點，畫面就會回來。</string>
+    <string name="cover_distance">現在 %1$d 公分・至少要 %2$d 公分</string>
+    <string name="cover_dark">請不要遮住鏡頭。</string>
+    <string name="voice_line">太近了，請離螢幕遠一點。</string>
+    <string name="pin_hint">家長密碼</string>
+    <string name="pin_unlock">解鎖設定</string>
+    <string name="pin_wrong">密碼錯誤</string>
+    <string name="pin_title">家長密碼（4–8 位數字，空白＝不設）。停止守門、改設定都要密碼。</string>
+    <string name="pin_new_hint">新密碼</string>
+    <string name="pin_save">儲存密碼</string>
+    <string name="pin_len">請用 4–8 位數字，或留空</string>
+    <string name="perm_camera">① 允許相機（和通知）</string>
+    <string name="perm_overlay">② 允許顯示在其他 App 上</string>
+    <string name="start">▶ 開始守門</string>
+    <string name="stop">■ 停止守門</string>
+    <string name="th_title">比 %1$d 公分近就提醒</string>
+    <string name="age_title">誰在用這台？</string>
+    <string name="age_0">3–5 歲小孩</string>
+    <string name="age_1">6–12 歲小孩</string>
+    <string name="age_2">青少年／大人</string>
+    <string name="cal_help">校正（選用，數字會更準）：先開始守門，用尺讓臉剛好離螢幕 30 公分，按下按鈕後保持不動 3 秒。</string>
+    <string name="cal_button">在 30 公分校正</string>
+    <string name="cal_reset">清除校正</string>
+    <string name="cal_started">校正中…請保持不動 3 秒</string>
+    <string name="cal_need_running">請先開始守門</string>
+    <string name="opt_voice">用語音提醒</string>
+    <string name="opt_pause">蓋住時暫停正在播的影片／音樂</string>
+    <string name="privacy_note">隱私：沒有網路權限。鏡頭畫面只在記憶體裡用 Android 內建的人臉偵測算距離，算完立刻丟掉，不存檔、不上傳；螢幕關掉時鏡頭也關。守門時系統會顯示綠色鏡頭小點。</string>
+    <string name="st_cam_ok">✓ 已允許相機</string>
+    <string name="st_cam_no">✗ 尚未允許相機（點①）</string>
+    <string name="st_ov_ok">✓ 已允許顯示在其他 App 上</string>
+    <string name="st_ov_no">✗ 尚未允許顯示在其他 App 上（點②）</string>
+    <string name="st_calib">校正倍率：%1$s</string>
+    <string name="live_off">守門關閉中</string>
+    <string name="live_nocam">找不到前鏡頭</string>
+    <string name="live_noface">守門中・沒看到臉</string>
+    <string name="live_cm">臉 ≈ %1$d 公分</string>
+    <string name="live_covered">已蓋住：太近了</string>
+</resources>

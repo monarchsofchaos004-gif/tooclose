@@ -1,0 +1,19 @@
+TooClose watches how far your child's face is from the screen, like the "Screen Distance" feature on iPhone, and covers the screen when they hold it too close for a few seconds. Move back and the screen comes back by itself.
+
+How it works
+- The front camera is checked about 2.5 times a second while the screen is on. Android's built-in face detector measures the distance between the eyes; with the camera's focal length this gives the distance in centimetres.
+- Closer than the threshold (default 30 cm) for 3 seconds: a full-screen cover appears, optionally with a spoken reminder, and playing video or music is paused.
+- At least 3 cm further than the threshold for 2 seconds: the cover goes away and the video continues.
+- Covering the camera does not remove the cover.
+- Age setting (3–5, 6–12, teen/adult) and an optional 30 cm calibration make the number accurate.
+- A parent PIN protects stopping the guard and changing settings.
+
+Privacy
+- No internet permission. Frames are analysed in memory and thrown away immediately; nothing is saved or sent.
+- The camera is closed while the screen is off. Android shows the green camera dot while the guard is watching.
+
+Limits
+- After a reboot Android does not let apps open the camera in the background; TooClose posts a reminder you tap once.
+- A determined child can still force-stop the app from system settings.
+
+Open source (MIT license). Alpha.

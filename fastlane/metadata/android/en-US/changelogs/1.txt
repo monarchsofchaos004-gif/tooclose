@@ -1,0 +1,1 @@
+First release: front-camera screen-distance guard with full-screen cover, spoken reminder, media pause, calibration and parent PIN. No internet permission.
