@@ -9,8 +9,8 @@ android {
         applicationId = "app.tooclose"
         minSdk = 26
         targetSdk = 34
-        versionCode = 1
-        versionName = "0.1.0"
+        versionCode = 2
+        versionName = "0.1.1"
     }
     // Release signing: only active when RELEASE_SIGNING_JSON points to an existing file
     // (local release builds). Without it (e.g. CI) the build behaves exactly as before.

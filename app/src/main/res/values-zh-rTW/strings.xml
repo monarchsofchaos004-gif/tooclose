@@ -5,7 +5,7 @@
     <string name="notif_watching">正在看螢幕距離（鏡頭畫面只留在這支手機）</string>
     <string name="notif_boot_channel">提醒</string>
     <string name="notif_boot">點一下重新開啟距離守門</string>
-    <string name="cover_title">太近了！🙈</string>
+    <string name="cover_title">太近了！</string>
     <string name="cover_hint">往後退一點，畫面就會回來。</string>
     <string name="cover_distance">現在 %1$d 公分・至少要 %2$d 公分</string>
     <string name="cover_dark">請不要遮住鏡頭。</string>
@@ -44,4 +44,11 @@
     <string name="live_noface">守門中・沒看到臉</string>
     <string name="live_cm">臉 ≈ %1$d 公分</string>
     <string name="live_covered">已蓋住：太近了</string>
+    <string name="live_sub">離螢幕至少要 %1$d 公分</string>
+    <string name="tagline">保護眼睛：螢幕保持安全距離</string>
+    <string name="sec_setup">開始設定</string>
+    <string name="sec_distance">距離</string>
+    <string name="sec_calib">校正</string>
+    <string name="sec_options">提醒方式</string>
+    <string name="sec_pin">家長密碼</string>
 </resources>

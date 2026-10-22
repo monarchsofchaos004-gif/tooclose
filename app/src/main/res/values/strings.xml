@@ -5,7 +5,7 @@
     <string name="notif_watching">Watching screen distance (camera stays on this phone)</string>
     <string name="notif_boot_channel">Reminders</string>
     <string name="notif_boot">Tap to turn the distance guard back on</string>
-    <string name="cover_title">Too close! 🙈</string>
+    <string name="cover_title">Too close!</string>
     <string name="cover_hint">Move back a little and the screen comes back.</string>
     <string name="cover_distance">%1$d cm now · keep at least %2$d cm</string>
     <string name="cover_dark">Please don\'t cover the camera.</string>
@@ -44,4 +44,11 @@
     <string name="live_noface">Watching · no face</string>
     <string name="live_cm">Face ≈ %1$d cm</string>
     <string name="live_covered">Covered: too close</string>
+    <string name="live_sub">Keep at least %1$d cm from the screen</string>
+    <string name="tagline">Healthy eyes: keep the screen at a safe distance</string>
+    <string name="sec_setup">Set up</string>
+    <string name="sec_distance">Distance</string>
+    <string name="sec_calib">Calibration</string>
+    <string name="sec_options">Reminders</string>
+    <string name="sec_pin">Parent PIN</string>
 </resources>
