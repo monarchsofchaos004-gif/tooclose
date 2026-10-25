@@ -2,6 +2,9 @@
 
 > **狀態：alpha（實驗版）。** 歡迎試用回報。 **Status: alpha.** Issues welcome.
 
+> ⭐ **好用的話，請按右上角的 Star 給個星星！** 這是我們知道有人在用、繼續維護下去的最大動力。
+> ⭐ **If this app is useful to you, please give it a Star (top-right).** It's how we know people use it, and it keeps the project going.
+
 小朋友看平板、手機常常越看越近。iPhone 有「螢幕距離」，Android 沒有內建；市面上的同類 App 多半收費、不開源，
 還要把畫面交給雲端。TooClose 只用手機本機的前鏡頭和 Android 內建的人臉偵測，**沒有網路權限**。
 
