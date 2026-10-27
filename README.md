@@ -54,5 +54,11 @@ gradle assembleDebug        # Gradle 8.9, JDK 17, Android SDK 34
 CI（GitHub Actions）每次 push 都會編一份 debug 與未簽章 release；正式版 APK 由開發者用自己的金鑰簽。
 CI builds a debug and an unsigned release APK on every push; release APKs are signed with the developer's key.
 
+## 幫忙翻譯 / Help translate
+
+TooClose 目前有英文和繁體中文。想翻成你的語言？看 [TRANSLATING.md](TRANSLATING.md)，大約 15～30 分鐘。
+
+TooClose is available in English and Traditional Chinese. Want it in your language? See [TRANSLATING.md](TRANSLATING.md) — it takes about 15–30 minutes.
+
 ## 授權 / License
 MIT。本專案在 AI（Claude）協助下撰寫，由作者審閱與維護。 Written with AI assistance (Claude); reviewed and maintained by the author.
